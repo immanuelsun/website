@@ -9,6 +9,6 @@ to work with Git courses.
 
 Cool stuff goes here
 
-Edit on example branch
-
 New edit on the update-readme branch
+
+Updated locally
