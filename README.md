@@ -9,6 +9,4 @@ to work with Git courses.
 
 Cool stuff goes here
 
-New edit on the update-readme branch
-
-Updated locally
+Updates made on master on Github before rebase
