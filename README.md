@@ -2,6 +2,6 @@
 
 Readme file for website project.
 
-## Repository Purpose
+## Purpose
 
-This is just a readme file
+The purpose of this file is to provide examples on how to use Git and GitHub together.
